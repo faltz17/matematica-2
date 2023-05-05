@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ .cabecalho{
+    background-color: rgb(241, 121, 231);
+    color: rgb(29, 28, 28);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .cabecalho-imagem {
+    height: 180px;
+     width: 100%;
+ }
+
+ .alforria-título {
+    padding: 24px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 160%;
+ }
+ 
+ .barra-pesquisa {
+    height: 100px;
+     width: 110%;
+     
+     
+ }  
+ .alforria-título {
+     padding: 24px 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 160%;
+ 
+ }
+ 
+ .alforria-texto{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 150%;
+ }
+ 
+ .produtos-1{
+    height: 500px;
+    width: 100%;
+ }
+
+ .produtos-2{
+    height: 500px;
+    width: 100%;
+ }
+ 
